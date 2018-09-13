@@ -1,0 +1,27 @@
+_repo: The-Flower-Patch-Among-the-Hills_51228
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Klickmann, Flora
+    birthdate: 1867
+    deathdate: 1958
+    gutenberg_agent_id: '8014'
+    url: http://www.gutenberg.org/2009/agents/8014
+description: ''
+gutenberg_issued: '2016-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 20th century'
+- !lcsh 'Country life -- England'
+- !lcc 'PR'
+- !lcsh 'Friendship'
+- !lcsh 'Household employees'
+- GITenberg
+title: The Flower-Patch Among the Hills
+url: http://www.gutenberg.org/ebooks/51228
